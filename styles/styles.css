@@ -1,0 +1,31 @@
+ul li{
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto; /* some stupid comment */
+}
+.header a {
+    color: black;
+    padding-top: 40px 0 40px 0;
+}
+.menu{
+    text-decoration: none;
+    
+}
+
+.nav-link{
+    text-transform: uppercase;
+}
+.tel {
+    margin-left: auto;
+}
+address{
+    color: blue;
+}
+.card{
+    display: inline-block;
+
+}
